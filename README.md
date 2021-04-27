@@ -6,7 +6,7 @@ A project that I created for my postgraduate, more precisely, the course of <b>T
 
 <ol>
   <li>Calculate the global skyline in a dataset</li>
-  <li>Calculate the Top-k most dominant skyline poitns in a dataset</li>
+  <li>Calculate the Top-k most dominant global skyline points in a dataset</li>
 </ol>
 
 # Files
